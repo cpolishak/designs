@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -13,7 +13,33 @@
   }
 }
 
-.App-header {
+.Background {
+  background: #136a8a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #267871, #136a8a);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #267871, #136a8a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  min-height: 100vh;
+}
+
+.logo {
+  max-height: 50px;
+}
+
+.cpfont1 {
+  font-family: 'Rock Salt', cursive;
+  color: black;
+  font-size: 2.4em;
+}
+
+.cpfont2 {
+  font-family: 'Rock Salt', cursive;
+  color: black;
+}
+
+.pic {
+  max-width: 30vw;
+}
+
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,7 +48,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
