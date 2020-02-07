@@ -38,39 +38,35 @@ function App() {
             </div>
             <div className="col-6">
               <a href={zigzag} target="_blank" rel="noopener noreferrer">
-                <img src={zigzag} className="pic pb-5" alt="bike"></img>
+                <img src={zigzag} className="pic pb-5" alt="zigzag shoes"></img>
               </a>
             </div>
             <div className="col-6">
               <a href={fc02} target="_blank" rel="noopener noreferrer">
-                <img src={fc02} className="pic pb-5" alt="bike"></img>
+                <img src={fc02} className="pic pb-5" alt="fc02 logo"></img>
               </a>
             </div>
             <div className="col-6">
               <a href={sofc2011} target="_blank" rel="noopener noreferrer">
-                <img src={sofc2011} className="pic pb-5" alt="bike"></img>
+                <img src={sofc2011} className="pic pb-5" alt="sofc 2011 logo"></img>
               </a>
             </div>
             <div className="col-6">
               <a href={desdev} target="_blank" rel="noopener noreferrer">
-                <img src={desdev} className="pic pb-5" alt="bike"></img>
+                <img src={desdev} className="pic pb-5" alt="desdev logo"></img>
               </a>
             </div>
             <div className="col-6">
               <a href={veins} target="_blank" rel="noopener noreferrer">
-                <img src={veins} className="pic pb-5" alt="bike"></img>
+                <img src={veins} className="pic pb-5" alt="veins shoes"></img>
               </a>
             </div>
             <div className="col-6">
               <a href={beer} target="_blank" rel="noopener noreferrer">
-                <img src={beer} className="pic pb-5" alt="bike"></img>
+                <img src={beer} className="pic pb-5" alt="beer for dinner"></img>
               </a>
             </div>
-            <div className="col-6">
-              <a href={logos} target="_blank" rel="noopener noreferrer">
-                <img src={logos} className="pic pb-5" alt="bike"></img>
-              </a>
-            </div>
+            
           </div>
 
 
